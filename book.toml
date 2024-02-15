@@ -1,0 +1,6 @@
+[book]
+authors = ["codedsprit"]
+language = "en"
+multilingual = false
+src = "src"
+title = "spritnote"
