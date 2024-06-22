@@ -2,12 +2,9 @@
 
 [About](./about.md)
 
-# Bug Bounty
 
+# Golang
 
-# Hackthebox
+# Hacks Tricks
 
-# Tryhackme 
-
-# CTF
-
+# Shell scripting
