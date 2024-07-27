@@ -7,7 +7,7 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
-Hii, I'm [codedsprit](https://github.com/codedsprit). I am a 17 old guy from Nepal, who loves computers and softwares. 
+Hii, I'm [codedsprit](https://github.com/codedsprit). I am a 18 years old guy from Nepal, who loves computers and softwares. 
 
 I'm a Security Researcher(not by profession), I play ctfs and do [Bug Bounty](https://hackerone.com/codedsprit). I believe in secure software and FOSS. Here you can find most of my writeups related to [CTFs'](https://ctf.hackthebox.com/user/profile/369283) and my findings. 
 
