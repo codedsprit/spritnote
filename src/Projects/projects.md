@@ -1,9 +1,10 @@
 # Projects I've worked on
 
+Most of my projects are on my GitHub. List of a few below.
+<br>
+
 | Projects     | Description                         |
 |--------------|-------------------------------------|
-| Project 1    | Description of project 1            |
-| Project 2    | Description of project 2            |
-| Project 3    | Description of project 3            |
-| Project 4    | Description of project 4            |
+| [Earlymoon](https://github.com/codedsprit/earlymoon)    | 🌙 DNS query tool written in go     |
+|[gocrt](https://github.com/codedsprit/gocrt) | ☘️ Find subdomain using http://crt.sh in terminal.           |
 
