@@ -6,6 +6,8 @@
 # Nix-OS
 - [package nextjs in nix](./Nix-OS/package-nextjs-Nix.md)
 
+# Projects
+- [Projects I've worked on](./Projects/projects.md)
 
-# Security-Findings
+
 
