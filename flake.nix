@@ -1,5 +1,5 @@
 {
-  description = "pwnwriter's random notes";
+  description = "codedsprit's notes";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
