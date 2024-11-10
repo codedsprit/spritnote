@@ -9,5 +9,5 @@
 # Projects
 - [Projects I've worked on](./Projects/projects.md)
 
-
-
+# Enumeration 
+- [content-discovery-recon](./hacking/content-discovery-recon.md)
