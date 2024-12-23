@@ -11,3 +11,6 @@
 
 # Enumeration 
 - [content-discovery-recon](./hacking/content-discovery-recon.md)
+
+# TryHackMe
+- [putting-all-together](./tryhackme/Putting-all-together.md)
