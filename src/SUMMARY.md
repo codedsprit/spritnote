@@ -4,13 +4,15 @@
 
 
 # Nix-OS
-- [package nextjs in nix](./Nix-OS/package-nextjs-Nix.md)
+- [Package nextjs in nix](./Nix-OS/package-nextjs-Nix.md)
 
 # Projects
 - [Projects I've worked on](./Projects/projects.md)
 
 # Enumeration 
-- [content-discovery-recon](./hacking/content-discovery-recon.md)
+- [Content Discovery Recon](./hacking/content-discovery-recon.md)
 
 # TryHackMe
-- [putting-all-together](./tryhackme/Putting-all-together.md)
+- [Putting All Together](./tryhackme/Putting-all-together.md)
+- [Active Reconnaissance](./tryhackme/Active-Reconnaissance.md)
+
