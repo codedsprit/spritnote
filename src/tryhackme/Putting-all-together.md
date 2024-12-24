@@ -1,3 +1,4 @@
+# Putting all together
 - Load Balancers 
 - CDN(Content Delivery Network)
 - Databases
