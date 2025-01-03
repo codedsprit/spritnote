@@ -15,4 +15,5 @@
 # TryHackMe
 - [Putting All Together](./tryhackme/Putting-all-together.md)
 - [Active Reconnaissance](./tryhackme/Active-Reconnaissance.md)
+- [The Sticker Shop](./tryhackme/The-Sticker-Shop.md)
 
